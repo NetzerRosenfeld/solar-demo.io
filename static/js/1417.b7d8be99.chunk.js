@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksolar_pro_react=self.webpackChunksolar_pro_react||[]).push([[1417],{1417:function(a,e,c){a.exports=c.p+"static/media/1-horizantal-2-vertical-panels.17dc60e4dc422a54e14d.png"}}]);

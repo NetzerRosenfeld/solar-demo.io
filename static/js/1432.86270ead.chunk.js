@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksolar_pro_react=self.webpackChunksolar_pro_react||[]).push([[1432],{1432:function(a,e,s){a.exports=s.p+"static/media/SXP.99acf7fb021af8691e79.png"}}]);
