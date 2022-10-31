@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksolar_pro_react=self.webpackChunksolar_pro_react||[]).push([[6846],{76846:function(a,e,s){a.exports=s.p+"solar-demo.io/static/media/metal.18f4bc140721090f08a4.png"}}]);

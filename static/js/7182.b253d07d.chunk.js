@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksolar_pro_react=self.webpackChunksolar_pro_react||[]).push([[7182],{37182:function(a,e,s){a.exports=s.p+"static/media/1-horizantal-panels.86f17004260cd6e7c829.png"}}]);

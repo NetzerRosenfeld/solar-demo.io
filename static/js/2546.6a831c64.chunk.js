@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksolar_pro_react=self.webpackChunksolar_pro_react||[]).push([[2546],{12546:function(a,e,r){a.exports=r.p+"static/media/burger.5397cb192a2b4a8449b2.svg"}}]);
