@@ -98,7 +98,7 @@
     "static/media/burger.svg": "./static/media/burger.5397cb192a2b4a8449b2b064b1d208a2.svg"
   },
   "entrypoints": [
-    "static/css/main.2b87c530.css",
-    "static/js/main.2916c522.js"
+    "./static/css/main.2b87c530.css",
+    "./static/js/main.2916c522.js"
   ]
 }
