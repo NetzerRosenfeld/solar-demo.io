@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksolar_pro_react=self.webpackChunksolar_pro_react||[]).push([[4790],{74790:function(a,e,s){a.exports=s.p+"solar-demo.io/static/media/3-vertical-panels.2c3fb0baa1e70afc3478.png"}}]);
