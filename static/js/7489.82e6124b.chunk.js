@@ -4,7 +4,7 @@
 /***/ 77489:
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/corrugatedIron.5fa1292d5b571d230afb.png";
+module.exports = __webpack_require__.p + "./solar-demo.io/static/media/corrugatedIron.5fa1292d5b571d230afb.png";
 
 /***/ })
 

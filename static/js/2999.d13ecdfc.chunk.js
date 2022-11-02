@@ -4,7 +4,7 @@
 /***/ 52999:
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/KZX.7af606d89415d8988437.png";
+module.exports = __webpack_require__.p + "./solar-demo.io/static/media/KZX.7af606d89415d8988437.png";
 
 /***/ })
 

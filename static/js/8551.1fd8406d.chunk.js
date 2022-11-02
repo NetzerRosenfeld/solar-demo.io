@@ -4,7 +4,7 @@
 /***/ 68551:
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/2-vertical-1-horizantal-panels.0dc5986a87b492603ea1.png";
+module.exports = __webpack_require__.p + "./solar-demo.io/static/media/2-vertical-1-horizantal-panels.0dc5986a87b492603ea1.png";
 
 /***/ })
 

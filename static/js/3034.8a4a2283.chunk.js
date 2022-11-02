@@ -4,7 +4,7 @@
 /***/ 13034:
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/angle-to-north.d431c16c04ce3889afcc.jpg";
+module.exports = __webpack_require__.p + "./solar-demo.io/static/media/angle-to-north.d431c16c04ce3889afcc.jpg";
 
 /***/ })
 

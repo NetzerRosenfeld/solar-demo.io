@@ -4,7 +4,7 @@
 /***/ 76846:
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/metal.18f4bc140721090f08a4.png";
+module.exports = __webpack_require__.p + "./solar-demo.io/static/media/metal.18f4bc140721090f08a4.png";
 
 /***/ })
 
