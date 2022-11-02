@@ -4,7 +4,7 @@
 /***/ 30368:
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/media/2-vertical-panels.2332e789c8e2d459fd9b.png";
+module.exports = __webpack_require__.p + "./static/media/2-vertical-panels.2332e789c8e2d459fd9b.png";
 
 /***/ })
 
